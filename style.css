@@ -2,7 +2,7 @@ body {
   background-color: black;
 }
 #clock {
-  border: 2px solid rgb(193, 23, 23);
+  border: 2px solid rgb(0, 0, 0);
   border-radius: 5px;
   background-color: rgb(52, 52, 94);
   margin-left: 30%;
