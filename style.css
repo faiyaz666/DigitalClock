@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+}
+#clock {
+  border: 2px solid rgb(193, 23, 23);
+  border-radius: 5px;
+  background-color: rgb(52, 52, 94);
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 25%;
+}
+.dark {
+  text-align: center;
+  justify-content: center;
+}
+h1#time {
+  display: inline-block;
+  font-size: 36px;
+  color: aliceblue;
+}
+small {
+  color: aliceblue;
+}
